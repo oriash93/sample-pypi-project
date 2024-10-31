@@ -1,2 +1,3 @@
-# python-template
-My Python template repository
+# Sample Package
+
+This is a simple sample package.
